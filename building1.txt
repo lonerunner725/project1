@@ -1,4 +1,7 @@
 import.java.util.*;
-public class {
+public class Objective {
 int a,b;
+public class Objective(){
+a=0;b=1;
+}
 }
