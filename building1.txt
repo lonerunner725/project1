@@ -6,4 +6,4 @@ a=0;b=1;
 }
 }
 This is for master commit
-
+this is second line for feature branch
